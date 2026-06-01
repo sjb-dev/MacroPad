@@ -1,0 +1,33 @@
+{
+  "name": "SM Boards Macro2040",
+  "vendorId": "0x534D",
+  "productId": "0x4D32",
+  "matrix": {
+    "rows": 4,
+    "cols": 2
+  },
+  "keycodes": ["qmk_lighting"],
+  "menus": ["qmk_rgb_matrix"],
+  "layouts": {
+    "keymap": [
+      [
+        {"x": 0, "w": 2, "h": 2},
+        "\n\n\n\n\n\n\n\n\ne0",
+        {"x": 0.75},
+        "0,0",
+        "1,0",
+        "2,0"
+      ],
+      [
+        {"x": 2.75},
+        "0,1",
+        "1,1",
+        "2,1"
+      ],
+      [
+        {"x": 1.75, "y": -0.5, "w": 0.75, "h": 0.75},
+        "3,1"
+      ]
+    ]
+  }
+}
