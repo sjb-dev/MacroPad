@@ -1,5 +1,7 @@
 # SM Boards Macro2040
 
+![SM Boards Macro2040](Macro2040.jpg)
+
 A 7-key macropad with a magnetic rotary encoder, RGB lighting and a small OLED display, powered by an RP2040.
 
 * Keyboard Maintainer: [sjb-dev](https://github.com/sjb-dev)
